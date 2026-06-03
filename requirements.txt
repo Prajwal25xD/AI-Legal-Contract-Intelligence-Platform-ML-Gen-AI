@@ -1,0 +1,32 @@
+# Core
+pandas
+numpy
+scikit-learn
+joblib
+
+# Embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector Search
+faiss-cpu
+
+# LLM
+langchain
+langchain-groq
+groq
+
+# Document Processing
+pypdf
+PyPDF2
+pdfplumber
+
+# Frontend
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+tqdm
